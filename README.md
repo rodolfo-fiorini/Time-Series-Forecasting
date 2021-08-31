@@ -1,2 +1,5 @@
 # Time-Series-Forecasting
-RNNs, SARIMA(X), VARMA(X), SES, etc
+
+Sample codes using the following methodologies:
+- RNNs, SARIMA(X), VARMA(X), SES, etc
+
